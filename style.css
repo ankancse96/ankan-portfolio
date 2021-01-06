@@ -69,9 +69,14 @@ body{
     float: left;
     margin-left: 6%;
   }
+  .project{
+      background-color: rgb(221, 221, 221);
+      margin-bottom: 50px;
+  }
 .project h1{
     text-align: center;
     padding-bottom: 5%;
+    padding-top: 50px;
 }
 .container h4{
     padding-left: 5px;
